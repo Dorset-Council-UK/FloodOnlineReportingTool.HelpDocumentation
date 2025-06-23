@@ -1,0 +1,9 @@
+site_name: Flood Online Reporting Tool help documentation
+plugins:
+  - search
+theme:
+  name: material
+  features:
+    - navigation.instant
+nav:
+    - 'index.md'
