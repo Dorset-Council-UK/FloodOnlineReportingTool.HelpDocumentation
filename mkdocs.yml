@@ -30,5 +30,19 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to system preference
+markdown_extensions:
+- toc:
+    permalink: true
+- tables
+- attr_list
+- admonition
+- md_in_html
+- pymdownx.details
+- pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/Dorset-Council-UK
+copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated
 nav:
     - 'index.md'
