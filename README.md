@@ -4,7 +4,7 @@ User guide powered by [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs
 
 The guide is intended for administrators of FORT. 
 
-This guide is deployed at ADD LINK HERE
+This guide is deployed at https://dorset-council-uk.github.io/FloodOnlineReportingTool.HelpDocumentation/
 
 ## Making changes to the guide
 
