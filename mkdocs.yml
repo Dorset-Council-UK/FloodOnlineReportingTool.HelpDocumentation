@@ -46,3 +46,5 @@ extra:
 copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated
 nav:
     - 'index.md'
+    - 'searching.md'
+    - 'flood-events.md'
