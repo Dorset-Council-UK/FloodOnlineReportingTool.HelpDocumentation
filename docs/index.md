@@ -1,4 +1,7 @@
-# Example page
+# Welcome to FORT Risk Management Guidance
 
-Docs to be written
+To include on this page:
+- brief introduction to the app
+- the need to be logged in on the Public project to be able to see flood report details
+- anything else
 
