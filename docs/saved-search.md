@@ -1,6 +1,6 @@
 # Saved searches
 
-Create a saved search when you suspect or become aware of flooding. The reference number created from this can be shared and used for monitoring.
+Create a saved search when you suspect or become aware of flooding. The reference number created from this can be shared with team members and used for monitoring.
 
 ## Creating a saved search
 
