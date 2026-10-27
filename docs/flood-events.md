@@ -29,7 +29,8 @@ If a flood event already has attachments, you can view them. To add new attachme
 
 You can add images, videos and documents.
 
-!!! warning Make sure there are no identifiable people or personal data in your uploaded files.
+!!! warning 
+    Make sure there are no identifiable people or personal data in your uploaded files.
 
 ### Create a public URL for media uploads
 
