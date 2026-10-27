@@ -12,7 +12,8 @@ Try and keep the name descriptive following this naming convention:
 
 Date - Location - Flood type
 
-!!! example 2026 20-22 October - Dorchester - River
+!!! example
+    20-22 October 2026 - Dorchester - River
 
 Add any other details you have, including status and estimated totals of properties affected.
 
