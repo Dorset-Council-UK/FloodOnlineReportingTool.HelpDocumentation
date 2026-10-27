@@ -6,12 +6,13 @@ Upgrading a saved search to a flood event lets you add additional information an
 
 When you have your [saved search](saved-search.md) ready, click on the 'Create flood event' button at the bottom of the page.
 
-On the next page, fill in the flood event name - some information will be filled in already and you can change it as you need to. Try and keep the name descriptive following this naming convention:
+On the next page, fill in the flood event name - some information will be filled in already and you can change it as you need to. 
+
+Try and keep the name descriptive following this naming convention:
 
 Date - Location - Flood type
 
-**Example:** 
-2026 20-22 October - Dorchester - River
+!!! example 2026 20-22 October - Dorchester - River
 
 Add any other details you have, including status and estimated totals of properties affected.
 
