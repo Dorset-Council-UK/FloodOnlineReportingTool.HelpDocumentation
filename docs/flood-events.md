@@ -1,6 +1,7 @@
 # Flood events
 
 Include this on the page:
+
 - how to upgrade a saved search to a flood event
 - adding attachments (documents, photos, videos)
 - setting status (including 'investigation required' and 'section 19 report'
