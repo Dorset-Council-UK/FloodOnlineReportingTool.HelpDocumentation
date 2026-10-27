@@ -1,6 +1,6 @@
 # Flood events
 
-Upgrading a saved search to a flood event lets you add additional information and start flood investigations for each report included.
+Upgrading a saved search to a flood event lets you add additional information and start flood investigations for each flood report included.
 
 ## Upgrade a saved search to a flood event
 
@@ -28,13 +28,13 @@ If a flood event already has attachments, you can view them. To add new attachme
 
 You can add images, videos and documents.
 
-!!! warning Please ensure there are no identifiable people or personal data in your uploaded files.
+!!! warning Make sure there are no identifiable people or personal data in your uploaded files.
 
 ### Create a public URL for media uploads
 
 You can create a URL or QR code to share with members of the public that will let them upload media of their own. These links will work for two weeks and you can lock them sooner if you need to.
 
-To create a sharable URL and QR code, click on the 'Generate Public Upload URL' button on the flood event page.
+Click on the 'Generate Public Upload URL' button on the flood event page to create a sharable URL and QR code.
 
 ## Adding comments
 
