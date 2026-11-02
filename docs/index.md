@@ -6,3 +6,8 @@ To include on this page:
 - the need to be logged in on the Public project to be able to see flood report details
 - anything else
 
+Dashboard:
+
+- shows stats and number of latest reports
+- buttons and links to further activities
+
