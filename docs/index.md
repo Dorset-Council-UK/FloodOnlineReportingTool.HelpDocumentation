@@ -1,13 +1,7 @@
 # Welcome to FORT Risk Management Guidance
 
-To include on this page:
+This application allows you to monitor and manage flood events.
 
-- brief introduction to the app
-- the need to be logged in on the Public project to be able to see flood report details
-- anything else
+When you log in, the homepage will show you some useful information and you can manage various things by clicking on them.
 
-Dashboard:
-
-- shows stats and number of latest reports
-- buttons and links to further activities
 
